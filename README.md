@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/164d7a35-5df3-4371-a49d-e8d34ca50d81)
+
 # Resources for BeatSaber
 
 Dr.USAGI の ビートセイバー用ものおきです。
@@ -16,4 +18,4 @@ Dr.USAGI の ビートセイバー用ものおきです。
 
 ## Licence
 
-- MIT
+- CustomNotes -> MIT
