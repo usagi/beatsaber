@@ -8,7 +8,8 @@ Dr.USAGI の ビートセイバー用ものおきです。
 
 ### usa-notes-00
 
-うさぎモチーフのかわいいカスタムノーツです。
+うさぎモチーフのかわいいカスタムノーツです。うさぎ博士ちゃん ― Dr.USAGI/USAGI.NETWORK のロゴにもあしらわれているうさぎモチーフのノーツを実際にビートセイバーでお楽しみ頂けます。
+
 （※うさぎ斬っているのではありません。うさぎモチーフのノーツを斬っているのです。🐰）
 
 - Download: [CustomNotes/usa-notes-00.bloq](https://github.com/usagi/beatsaber/raw/main/CustomNotes/usa-notes-00.bloq)
