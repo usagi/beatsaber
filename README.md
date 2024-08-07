@@ -16,6 +16,16 @@ Dr.USAGI の ビートセイバー用ものおきです。
 
 ![image](https://github.com/user-attachments/assets/eae310a7-bc4d-4939-b8a5-6cb0138fe58c)
 
+## Sounds
+
+### usa-hit-00
+
+失われた時代の科学技術で造られた闇を払う効果を持っているかもしれないセイバーをブンブン振った時に鳴るかもしれない荘か効果音です。「シャンー」的なやつです。
+
+- Download: [Sounds/usa-hit-00.ogg](https://github.com/usagi/beatsaber/raw/main/Sounds/usa-hit-00.ogg)
+
+ヒットサウンド参考動画: https://youtu.be/SZLqoNMPrUI?si=rGBCmqxAatJkEY96
+
 ## LRC
 
 [NalulunaLyrics](https://nalulululuna.fanbox.cc/posts/7694504) で使えるかもしれないLRCファイル置き場です。
