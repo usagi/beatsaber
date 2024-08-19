@@ -16,7 +16,7 @@ Dr.USAGI の ビートセイバー用ものおきです。
 
 ![image](https://github.com/user-attachments/assets/eae310a7-bc4d-4939-b8a5-6cb0138fe58c)
 
-## Camera Scripts
+## Camera Script
 
 ### usa-cam-00
 
