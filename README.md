@@ -23,7 +23,7 @@ Dr.USAGI の ビートセイバー用ものおきです。
 汎用のカメラスクリプトです。①やや右後ろから→②右側からのサイドビュー→③フロントビュー（→①へループ）
 
 - Download: [CameraScripts/usa-cam-00.json](https://github.com/usagi/beatsaber/raw/main/CameraScript/general/usa-cam-00.json)
-
+  - 右クリック→リンク先を保存 or リンク先を開いてファイルを保存
 
 カメラスクリプト参考動画: https://clips.twitch.tv/HandsomeYawningVampireKappaClaus-buoO9fqDyZKbW-MC
 
