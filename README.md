@@ -49,7 +49,7 @@ Dr.USAGI の ビートセイバー用ものおきです。
 
 （オプション）どこかに制作者の表示をして頂ける場合は「うさぎ博士ちゃん」または「Dr.USAGI」または「Dr.USAGI/USAGI.NETWORK」で表示頂けると嬉しいです。
 
-- CustomNotes -> MIT
+- CustomNotes, CameraScript, Sounds -> MIT
 - LRC -> MIT (LRCファイルについてのみ。歌詞そのものの著作権は各楽曲の作詞者に帰属します。楽曲情報はBeatSaver等でご確認ください。)
 
 （※うさぎ博士ちゃんのロゴはライセンシングの対象外です。）
