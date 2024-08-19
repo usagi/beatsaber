@@ -1,0 +1,160 @@
+{
+ "Movements": [
+  {
+   "StartPos": {
+    "x": 0.6,
+    "y": 1.35,
+    "z": -2.0
+   },
+   "StartRot": {
+    "x": 0,
+    "y": 5,
+    "z": 0
+   },
+   "EndPos": {
+    "x": 0.4,
+    "y": 1.65,
+    "z": -1.6
+   },
+   "EndRot": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+   },
+   "Duration": 24,
+   "Delay": 0,
+   "EaseTransition": true
+  },
+  {
+   "StartPos": {
+    "x": 0.4,
+    "y": 1.65,
+    "z": -1.6
+   },
+   "StartRot": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+   },
+   "EndPos": {
+    "x": 2.0,
+    "y": 1.25,
+    "z": 0.6
+   },
+   "EndRot": {
+    "x": 5,
+    "y": 270,
+    "z": 0
+   },
+   "Duration": 2,
+   "Delay": 0,
+   "EaseTransition": true
+  },
+  {
+   "StartPos": {
+    "x": 2.0,
+    "y": 1.25,
+    "z": 0.6
+   },
+   "StartRot": {
+    "x": 5,
+    "y": 270,
+    "z": 0
+   },
+   "EndPos": {
+    "x": 1.6,
+    "y": 1.25,
+    "z": 0.4
+   },
+   "EndRot": {
+    "x": 5,
+    "y": 270,
+    "z": 0
+   },
+   "Duration": 24,
+   "Delay": 0,
+   "EaseTransition": true
+  },
+  {
+   "StartPos": {
+    "x": 1.6,
+    "y": 1.25,
+    "z": 0.4
+   },
+   "StartRot": {
+    "x": 5,
+    "y": 270,
+    "z": 0
+   },
+   "EndPos": {
+    "x": 0,
+    "y": 1.45,
+    "z": 4.8,
+    "FOV": 30
+   },
+   "EndRot": {
+    "x": 5,
+    "y": 180,
+    "z": 0
+   },
+   "Duration": 2,
+   "Delay": 0,
+   "EaseTransition": true
+  },
+  {
+   "StartPos": {
+    "x": 0,
+    "y": 1.45,
+    "z": 4.8,
+    "FOV": 28
+   },
+   "StartRot": {
+    "x": 5,
+    "y": 180,
+    "z": 0
+   },
+   "EndPos": {
+    "x": 0,
+    "y": 1.45,
+    "z": 4.0,
+    "FOV": 28
+   },
+   "EndRot": {
+    "x": 5,
+    "y": 180,
+    "z": 0
+   },
+   "Duration": 24,
+   "Delay": 0,
+   "EaseTransition": true
+  },
+  {
+   "StartPos": {
+    "x": 0,
+    "y": 1.65,
+    "z": 4.0,
+    "FOV": 28
+   },
+   "StartRot": {
+    "x": 5,
+    "y": 180,
+    "z": 0
+   },
+   "EndPos": {
+    "x": 0.6,
+    "y": 1.35,
+    "z": -2.0,
+    "FOV": 60
+   },
+   "EndRot": {
+    "x": 0,
+    "y": 5,
+    "z": 0
+   },
+   "Duration": 2,
+   "Delay": 0,
+   "EaseTransition": true
+  }
+ ],
+ "name": "usa-cam-00.json"
+}

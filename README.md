@@ -16,6 +16,17 @@ Dr.USAGI の ビートセイバー用ものおきです。
 
 ![image](https://github.com/user-attachments/assets/eae310a7-bc4d-4939-b8a5-6cb0138fe58c)
 
+## Camera Scripts
+
+### usa-cam-00
+
+汎用のカメラスクリプトです。①やや右後ろから→②右側からのサイドビュー→③フロントビュー（→①へループ）
+
+- Download: [CameraScripts/usa-cam-00.json](https://github.com/usagi/beatsaber/raw/main/CameraScript/usa-cam-00.json)
+
+
+カメラスクリプト参考動画: https://clips.twitch.tv/HandsomeYawningVampireKappaClaus-buoO9fqDyZKbW-MC
+
 ## Sounds
 
 ### usa-hit-00
